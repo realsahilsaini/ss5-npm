@@ -1,0 +1,26 @@
+{
+  "name": "ss5-npm",
+  "version": "1.0.0",
+  "description": "building demo npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsahilsaini/ss5-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sahil Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realsahilsaini/ss5-npm/issues"
+  },
+  "homepage": "https://github.com/realsahilsaini/ss5-npm#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
